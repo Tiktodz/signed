@@ -1,12 +1,13 @@
 {
-	"response": [
-		{
-			"datetime": in process,
-			"filename": "lineage-17.1-20231119-UNOFFICIAL-X00T-signed-ota_update.zip",
-			"id": "in process",
-			"size": 745075655,
-			"url": "in process",
-			"version": "17.1"
-		}
-	]
+  "response": [
+    {
+      "datetime": 735645194,
+      "filename": "lineage-17.1-20231120-UNOFFICIAL-X00T-signed-ota_update.zip",
+      "id": "b03facac7d905132682258761334fcef",
+      "romtype": "UNOFFICIAL",
+      "size": 735645194,
+      "url": "https://sourceforge.net/projects/customromx00t/files/lineage/lineage-17.1-20231120-UNOFFICIAL-X00T-signed-ota_update.zip/download",
+      "version": "17.1"
+    }
+  ]
 }
