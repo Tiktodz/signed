@@ -1,1 +1,2 @@
-work in progress
+February 2024 security patch
+Drop smart charging feature
