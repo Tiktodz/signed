@@ -38,8 +38,9 @@ ota_from_target_files -k ~/.android-certs/releasekey \
     --block --backup=true \
     signed-target_files.zip \
     signed-ota_update.zip
-
+exit 1
 }
+
 keygen
 cmd
 sign
