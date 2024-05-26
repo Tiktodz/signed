@@ -4,7 +4,7 @@ function keygen() {
     rm -rf "$certs_dir"
     mkdir -p "$certs_dir"
     local subject
-    echo "Sample subject: '/C=US/ST=California/L=Mountain View/O=Android/OU=Android/CN=Android/emailAddress=android@android.com'"
+    echo "Sample subject: '/C=AS/ST=Indonesia/L=Jakarta View/O=Android/OU=Android/CN=Android/emailAddress=android@android.com'"
     echo "Now enter subject details for your keys:"
     for entry in C ST L O OU CN emailAddress; do
         echo -n "$entry:"
