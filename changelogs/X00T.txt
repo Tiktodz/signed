@@ -1,4 +1,0 @@
-- February 2024 security patch
-- Drop smart charging feature
-- Add touch gesture
-- Other fixes and improvements
