@@ -2,25 +2,21 @@
 You can generate keys like [This](https://github.com/Tiktodz/sign/tree/14/lineage-priv/keys)
 
 ## clone this source
+
 ```
-
 git clone https://github.com/Tiktodz/signed
-
 ```
 
 ## clone development
+
 ```
-
 git clone https://github.com/LineageOS/android_development development
-
 ```
 
 ## generate keys
 
 ```
-
 bash signed/generate_key.sh
-
 ```
 
 Then following this [steps](https://gist.github.com/A2L5E0X1/54cb1b3a49030a9ebf8608b4e68073f5#part-2-setting-up-private-vendor-repo)
