@@ -1,5 +1,6 @@
 
 You can generate keys like [This](https://github.com/Tiktodz/sign/tree/14/lineage-priv/keys)
+open terminal, this only to generate a public key!
 
 ## clone this source
 
@@ -21,4 +22,15 @@ bash signed/generate_key.sh
 
 Then following this [steps](https://gist.github.com/A2L5E0X1/54cb1b3a49030a9ebf8608b4e68073f5#part-2-setting-up-private-vendor-repo)
 
-I use this method to build a signed ROM using the foss.crave.io server.
+If you have already pushed it to the repository, now is the time to do it.
+an example is just like this:
+[1](https://github.com/Tiktodz/android_device_asus_X00TD/blob/73273fe71a1331261e5dc63dc09e9665a093df1d/vendorsetup.sh#L19)
+[2](https://github.com/Tiktodz/android_device_asus_X00TD/blob/73273fe71a1331261e5dc63dc09e9665a093df1d/device.mk#L300)
+[3](https://github.com/Tiktodz/android_device_asus_X00TD/blob/73273fe71a1331261e5dc63dc09e9665a093df1d/device.mk#L529)
+
+Remember that each ROM source has a different placement definition, it's better to always check the source first.
+
+## I use this method to build a signed ROM using the foss.crave.io server etc!.
+
+This is just a personal script, and is not mandatory for you to use..If you want to try it there's no harm in it,
+always generate a new key every time you build a different ROM because this is a public key.
