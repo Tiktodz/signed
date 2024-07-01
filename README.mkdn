@@ -4,12 +4,12 @@ You can generate keys like [This](https://github.com/Tiktodz/sign/tree/14/lineag
 ## clone this source
 
 ```
-git clone https://github.com/Tiktodz/signed
+git clone -b 10 https://github.com/Tiktodz/signed
 ```
 ## clone development
 
 ```
-git clone https://github.com/LineageOS/android_development development
+git clone https://github.com/LineageOS/android_development -b lineage-17.1 development
 ```
 
 ## generate keys
