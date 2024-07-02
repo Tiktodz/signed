@@ -12,7 +12,7 @@ function keygen() {
         subject+="/$entry=$val"
     done
 
-for cert in bluetooth media networkstack platform releasekey sdk_sandbox shared testcert testkey verity; do \
+for cert in bluetooth cyngn-app media networkstack nfc platform releasekey sdk_sandbox shared testcert testkey verity; do \
         ./development/tools/make_key ~/.android-certs/$cert "$subject"; \
     done
 }
