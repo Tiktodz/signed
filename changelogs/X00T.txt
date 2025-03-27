@@ -1,4 +1,8 @@
-- February 2025 security patch
-- Drop smart charging feature
-- Drop touch gesture
-- Other fixes and improvements
+March 2025 security patch (https://review.lineageos.org/q/topic:Q_asb_2025-03)
+Enable EGL blobcache
+rename /persist to /mnt/vendor/persist
+Inflate signal strength
+Disable ACS
+Fix deprecated power profile items
+Remove dsp. prefix from audio & video power profiles
+Other fixes and performance improvements
